@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import backgroundImage from '@/images/background-call-to-action.jpg'
+import backgroundImage from '@/images/background-call-to-action.webp'
 
 import { Container } from '@/components/Container'
 const stats = [
@@ -21,7 +21,7 @@ const stats = [
           src={backgroundImage}
           alt=""
           width={2347}
-          height={1244}
+          height={600}
           unoptimized
         />
         <Container className="relative">
