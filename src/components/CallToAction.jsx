@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 import { Button } from '@/components/Button'
 import { Container } from '@/components/Container'
-import backgroundImage from '@/images/background-call-to-action.jpg'
+import backgroundImage from '@/images/background-call-to-action.webp'
 
 export function CallToAction() {
   return (
@@ -13,9 +13,9 @@ export function CallToAction() {
       <Image
         className="absolute left-1/2 top-1/2 max-w-none -translate-x-1/2 -translate-y-1/2"
         src={backgroundImage}
-        alt=""
+        alt="SwiftCode"
         width={2347}
-        height={1244}
+        height={600}
         unoptimized
       />
       <Container className="relative">
