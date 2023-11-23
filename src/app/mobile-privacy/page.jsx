@@ -11,7 +11,7 @@ function Content() {
   <p>Last revised: November 19, 2023</p>
   
   <h2 class="text-xl font-bold tracking-tight text-gray-900">Introduction</h2>
-  <p>Thank you for exploring our Application! This Privacy Policy ("Policy") outlines the terms "we," "us," and "our," referring to the Application Owner, and Total Casino - Memory Challenge, representing the online service provided by the Application Owner. Geared towards individuals interacting with the Application, including Visitors and Customers collectively known as "you" or "your," this Policy provides details on the collection, usage, disclosure, and processing of personal data during your engagement with the Application. Such interactions include visiting, signing up, using the Application, participating in events, or any other form of engagement. This Policy complements other notices or contractual terms provided to you. Your use of the Service implies your agreement to the collection and use of information as outlined in this Privacy Policy.</p>
+  <p>Thank you for exploring our Application! This Privacy Policy (&quotPolicy&quot) outlines the terms &quotwe,&quot &quotus,&quot and &quotour,&quot referring to the Application Owner, and Total Casino - Memory Challenge, representing the online service provided by the Application Owner. Geared towards individuals interacting with the Application, including Visitors and Customers collectively known as &quotyou&quot or &quotyour,&quot this Policy provides details on the collection, usage, disclosure, and processing of personal data during your engagement with the Application. Such interactions include visiting, signing up, using the Application, participating in events, or any other form of engagement. This Policy complements other notices or contractual terms provided to you. Your use of the Service implies your agreement to the collection and use of information as outlined in this Privacy Policy.</p>
   
   <h2 class="text-xl font-bold tracking-tight text-gray-900">Contact Information</h2>
   <p>If you have questions about the Policy or our privacy practices, please reach out to us using the details below:</p>
@@ -47,7 +47,7 @@ function Content() {
   <p>We may share your personal information with Service Providers, in business transfers, with other users, or with your consent.</p>
   
   <h2 class="text-xl font-bold tracking-tight text-gray-900">RIGHT TO OPT-OUT (WITHDRAW CONSENT) AND OBJECT</h2>
-  <p>You can opt out of receiving communications from us. We prioritize protecting children's privacy and do not knowingly collect information from those under 18. You have the right to request deletion of your Personal Data.</p>
+  <p>You can opt out of receiving communications from us. We prioritize protecting children&aposs privacy and do not knowingly collect information from those under 18. You have the right to request deletion of your Personal Data.</p>
   
   <h2 class="text-xl font-bold tracking-tight text-gray-900">Storage of Personal Data</h2>
   <p>We store Personal data in databases on our premises and use data centers of relevant service providers. Security measures are in place to prevent unauthorized access.</p>
