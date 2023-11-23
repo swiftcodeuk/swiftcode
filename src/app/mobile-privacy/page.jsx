@@ -8,7 +8,7 @@ function Content() {
     <div className="mt-10 max-w-2xl space-y-6 text-base">
             
     <h1 class="text-2xl font-bold tracking-tight text-gray-900">Total Casino - Game of Luck</h1>
-  <p>Privacy Policy</p>
+  <h2 class="text-xl font-bold tracking-tight text-gray-900">Privacy Policy</h2>
   <p>Last revised: November 19, 2023</p>
   
   <h2 class="text-xl font-bold tracking-tight text-gray-900">Introduction</h2>
