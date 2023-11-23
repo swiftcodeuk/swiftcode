@@ -7,7 +7,8 @@ function Content() {
     <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
     <div className="mt-10 max-w-2xl space-y-6 text-base">
             
-    <h1 class="text-2xl font-bold tracking-tight text-gray-900">Total Casino - Memory Challenge Privacy Policy</h1>
+    <h1 class="text-2xl font-bold tracking-tight text-gray-900">Total Casino - Game of Luck</h1>
+  <p>Privacy Policy</p>
   <p>Last revised: November 19, 2023</p>
   
   <h2 class="text-xl font-bold tracking-tight text-gray-900">Introduction</h2>
