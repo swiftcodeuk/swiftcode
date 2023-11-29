@@ -88,7 +88,7 @@ function Content() {
 
 
             <h2 className="text-2xl font-bold tracking-tight text-gray-900">Children&apos;s Privacy</h2>
-            <p>Our Service does not address anyone under the age of 18 (&quot;Children&quot;).</p>
+            <p>Our Service does not address anyone under the age of 17+ (&quot;Children&quot;).</p>
             <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
 
 
