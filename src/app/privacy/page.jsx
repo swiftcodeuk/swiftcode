@@ -8,20 +8,102 @@ function Content() {
     <div className="mt-10 max-w-2xl space-y-6 text-base">
             
             <h1 className="text-2xl font-bold tracking-tight text-gray-900">Privacy Policy</h1>
-            <p>This Privacy Policy applies to all of our websites and our mobile applications (“the Website”). In this Privacy Policy, when we refer to any of our Website, we mean any website or mobile application operated by or on behalf of SwiftCode Ltd.</p>
-            <p>By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our Website Terms and Conditions. Any changes to this policy will be posted here. We reserve the right to vary this Privacy Policy from time to time and such changes shall become effective as soon as they are posted. Your continued use of the Website constitutes your agreement to all such changes. We are committed to protecting the personal information you give us and telling you how we use the information we gather about you.</p>
-            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Why we collect information about you</h2>
-            <p>We want to offer you a service which you want to use. We may use information about you to help us customise the Website, to remember you and to improve its usefulness to you. We may use this information to notify you about changes to the Website or products, services or promotions of ours and others (with your consent) that we think you might find of interest. It can also help us to choose articles and services we think will interest you</p>
-            <p>Information about you helps us sell space to advertisers of products and services relevant to you so that we can continue to fund the Website through advertising and you can continue to use the Website for free.</p>
-            <p>We may send you administrative and promotional emails relating to the Website and updates about the Website.</p>
-            <p>In addition to the services we provide on this web site we may want to offer you goods and services provided by us and others (with your consent) which are of interest to you.</p>
-            <p>We may personalise your visits to the Website and develop the design and style of the Website to improve the services provided to you. We may need to contact you to about a comment you have submitted or material you have posted on the Website or in order to verify your identity form time to time.</p>
-            <h2 className="text-2xl font-bold tracking-tight text-gray-900">How we ensure privacy is maintained</h2>
-            <p>We endeavor to ensure that your data is stored securely and to prevent unauthorised access. We have security measures in place to protect your information which we monitor regularly.</p>
-            <p>Unfortunately, despite our measures, because of the nature of the Internet, we cannot guarantee that your information will remain at all times 100% secure. The continuing efforts of hackers to defeat even the newest of security systems means that we can never make this promise. Please be aware that if you disclose information on chat areas, your Profile page, comment areas, forums or other public services it may be possible for other people to use this information.</p>
-            <p>We are not responsible for the disclosure of any information you post in this way.</p>
-            <p>We comply with the Data Protection Act 1998 and the Regulation of Investigatory Powers Act 2000 and all other legislation which governs the maintenance of privacy in your information.</p>
-            <p>The Website provides a number of links to web sites not operated by us or by companies associated with us. We take no responsibility for the use of any information about you which is collected as a result of your use of these websites and this privacy policy does not extend to any website operated by anybody other than us.</p>
+            <p>This Privacy Policy applies to all of our websites and our mobile applications (“the Website”). In this Privacy Policy, when we refer to any of our Website, we mean any website or mobile applications inluding (Mostbet - Spin & Win) operated by or on behalf of SwiftCode Ltd.</p>
+            <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
+            <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900" >Information Collection And Use</h2>
+
+            <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
+
+            <h3 className="text-2xl font-bold tracking-tight text-gray-900">Types of Data Collected</h3>
+
+            <h4 className="text-2xl font-bold tracking-tight text-gray-900">Personal Data</h4>
+
+            <p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (&quot;Personal Data&quot;). Personally identifiable information may include, but is not limited to:</p>
+
+            <ul>
+            <li>Cookies and Usage Data</li>
+            </ul>
+
+            <h4 className="text-2xl font-bold tracking-tight text-gray-900">Usage Data</h4>
+
+            <p>We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device (&quot;Usage Data&quot;).</p>
+            <p>This Usage Data may include information such as your computer&apos;s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
+            <p>When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.</p>
+
+            <h4 className="text-2xl font-bold tracking-tight text-gray-900"> Tracking &amp; Cookies Data</h4>
+            <p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
+            <p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
+            <p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
+            <p>Examples of Cookies we use:</p>
+            <ul>
+                <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
+                <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
+                <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
+            </ul>
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Use of Data</h2>
+                
+            <p>Swiftcode Ltd uses the collected data for various purposes:</p>    
+            <ul>
+                <li>To provide and maintain the Service</li>
+                <li>To notify you about changes to our Service</li>
+                <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
+                <li>To provide customer care and support</li>
+                <li>To provide analysis or valuable information so that we can improve the Service</li>
+                <li>To monitor the usage of the Service</li>
+                <li>To detect, prevent and address technical issues</li>
+            </ul>
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Transfer Of Data</h2>
+            <p>Your information, including Personal Data, may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
+            <p>If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.</p>
+            <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
+            <p>Swiftcode Ltd will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Disclosure Of Data</h2>
+
+            <h3>Legal Requirements</h3>
+            <p>Swiftcode Ltd may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+            <ul>
+                <li>To comply with a legal obligation</li>
+                <li>To protect and defend the rights or property of Swiftcode Ltd</li>
+                <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
+                <li>To protect the personal safety of users of the Service or the public</li>
+                <li>To protect against legal liability</li>
+            </ul>
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Security Of Data</h2>
+            <p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Service Providers</h2>
+            <p>We may employ third party companies and individuals to facilitate our Service (&quot;Service Providers&quot;), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.</p>
+            <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.</p>
+
+
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Links To Other Sites</h2>
+            <p>Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party&apos;s site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
+            <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
+
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Children&apos;s Privacy</h2>
+            <p>Our Service does not address anyone under the age of 18 (&quot;Children&quot;).</p>
+            <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
+
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Changes To This Privacy Policy</h2>
+            <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
+            <p>We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the &quot;effective date&quot; at the top of this Privacy Policy.</p>
+            <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+
+
+            <h2 className="text-2xl font-bold tracking-tight text-gray-900">Contact Us</h2>
+            <p>If you have any questions about this Privacy Policy, please contact us:</p>
+            <ul>
+                        <li>By sending us an email : support@swiftcode.uk</li>
+                  
+                    </ul>
            </div>
   </div>
   </div>
